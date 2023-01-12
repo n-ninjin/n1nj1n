@@ -16,7 +16,7 @@ I worked as a Software Engineer at various different positions mainly focusing o
 - 📫 My resume: Drive.
 
 - 🎮 My Social Media Handles:
-[![Linkedin Badge](https://img.shields.io/badge/-Ninjin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ninjin-nerguidavaa/))
+[![Linkedin Badge](https://img.shields.io/badge/-Ninjin-blue?style=flat&logo=Linkedin&logoColor=white)]([[your-linkedin-url](https://www.linkedin.com/in/ninjin-nerguidavaa/)])
 
 Contact: 📧 nnerguidavaa@ucdavis.edu 📍 San Francisco, Washington DC
 
