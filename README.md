@@ -3,7 +3,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA and completed my Master’s Degree in Business and Data Analytics at University of California Davis.
+I am a Software Engineer from the USA and completed my Master’s Degree in Business and Data Analytics at University of California Davis.
 Before coming US, I worked as a Software Engineer at various different positions mainly focusing on Java backend development in Japan for 7 years.
 
 
