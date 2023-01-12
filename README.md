@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/108375365/211719090-4ec40447-bb7c-4b39-baee-2fa1e7344c96.gif" width="50%" height="50%"/>
+  <img src="https://user-images.githubusercontent.com/108375365/211719090-4ec40447-bb7c-4b39-baee-2fa1e7344c96.gif" width="60%" height="60%"/>
 </div>
 
 ### :man_technologist: About Me :
