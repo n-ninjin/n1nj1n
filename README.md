@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/108375365/211719090-4ec40447-bb7c-4b39-baee-2fa1e7344c96.gif"/>
+  <img src="https://user-images.githubusercontent.com/108375365/211719090-4ec40447-bb7c-4b39-baee-2fa1e7344c96.gif" width="50%" height="50%"/>
 </div>
 
 ### :man_technologist: About Me :
@@ -16,7 +16,10 @@ I worked as a Software Engineer at various different positions mainly focusing o
 - 📫 My resume: Drive.
 
 - 🎮 My Social Media Handles:
-[![Linkedin Badge](https://img.shields.io/badge/-Ninjin-blue?style=flat&logo=Linkedin&logoColor=white)]([[your-linkedin-url](https://www.linkedin.com/in/ninjin-nerguidavaa/)])
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ninjin-nerguidavaa/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ninjin.cs@gmail.com)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/n-ninjin/)
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/Ninjin_2022)
 
 Contact: 📧 nnerguidavaa@ucdavis.edu 📍 San Francisco, Washington DC
 
