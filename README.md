@@ -3,8 +3,10 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Software Engineer from the USA and completed my Master’s Degree in Business and Data Analytics at University of California Davis.
-Before coming US, I worked as a Software Engineer at various different positions mainly focusing on Java backend development in Japan for 7 years.
+• Highly motivated professional with 8+ years of experience as Software Engineering, Back-end development, Java Full-Stack
+• Proficient in problem solving, troubleshooting, object oriented programming, data structure and algorithm
+• Experienced team worker of multi-cultural background and proven leader and passionate about learning new technologies,
+• Graduated from top 10 Data Analytics Program in the World
 
 
 
