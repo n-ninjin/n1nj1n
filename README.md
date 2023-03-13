@@ -3,10 +3,13 @@
 </div>
 
 ### :man_technologist: About Me :
-• Highly motivated professional with 8+ years of experience as Software Engineering, Back-end development, Java Full-Stack
-• Proficient in problem solving, troubleshooting, object oriented programming, data structure and algorithm
-• Experienced team worker of multi-cultural background and proven leader and passionate about learning new technologies,
-• Graduated from top 10 Data Analytics Program in the World
+✔ Highly motivated professional with 8+ years of experience as Software Engineering, Back-end development, Java Full-Stack
+
+✔ Proficient in problem solving, troubleshooting, object oriented programming, data structure and algorithm
+
+✔ Experienced team worker of multi-cultural background and proven leader and passionate about learning new technologies,
+
+✔ Graduated from top 10 Data Analytics Program in the World
 
 
 
