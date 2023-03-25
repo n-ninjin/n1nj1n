@@ -27,7 +27,7 @@
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/n-ninjin/)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/Ninjin_2022)
 
-Contact: 📧 nnerguidavaa@ucdavis.edu 📍 San Francisco, Washington DC
+Contact: 📧 nnerguidavaa@ucdavis.edu 📍 San Francisco
 
 
 <div id="header" align="center">
