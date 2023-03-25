@@ -3,7 +3,7 @@
 </div>
 
 ### :man_technologist: About Me :
-✔ Highly motivated professional with 5+ years of experience as Software Engineering, Back-end development, Java Full-Stack
+✔ Highly motivated professional with 8+ years of experience as Software Engineering, Back-end development, Java Full-Stack
 
 ✔ Proficient in problem solving, troubleshooting, object oriented programming, data structure and algorithm
 
